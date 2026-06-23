@@ -9,11 +9,10 @@ This repository contains my journey of learning C programming from basics to adv
 * Basics
 * If Else
 * Loops
-* Functions
+* Functions & Pointers
+* Recursion
 * Arrays
 * Strings
-* Pointers
-* Recursion
 * File Handling
 
 ## Goal
